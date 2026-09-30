@@ -8,3 +8,6 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Job taxonomy lives only in src/data/job_hierarchy_framework.json (accessed via src/lib/jobs.ts) — single source of truth for roles.
+- Candidates use mock + localStorage store in src/lib/candidates.ts until a database is connected; schema in supabase/schema.sql.
