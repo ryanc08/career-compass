@@ -15,7 +15,7 @@ export function RolePicker({ selected, onToggle, domains, filter = "" }: { selec
     const ds = domains ?? Object.keys(JOBS);
     return ds.map((d) => ({
       d,
-      subs: Object.entries(JOBS[d]).map(([s, titles]) => ({ s, titles: Object.keys(titles).filter((t) => !q || t.toLowerCase().includes(q)) })).filter((x) => x.titles.length),
+      subs: Object.entries(JOBS[d] ?? {}).map(([s, titles]) => ({ s, titles: Object.keys(titles).filter((t) => !q || t.toLowerCase().includes(q)) })).filter((x) => x.titles.length),
     })).filter((x) => x.subs.length);
   }, [domains, q]);
 
