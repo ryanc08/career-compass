@@ -52,10 +52,10 @@ function Onboard() {
     const r = schema.safeParse(form);
     const errs: Record<string, string> = {};
     if (!r.success) r.error.issues.forEach((i) => (errs[String(i.path[0])] ??= i.message));
-    if (!roles.size) errs.roles = "Select at least one role";
-    if (avatar && avatar.size > 1.5e6) errs.avatar = "Image must be under 1.5 MB";
+    if (!roles.size) errs["roles"] = "Select at least one role";
+    if (avatar && avatar.size > 1.5e6) errs["avatar"] = "Image must be under 1.5 MB";
     setErrors(errs);
-    if (Object.keys(errs).length || !r.success) return toast.error("Please fix the highlighted fields");
+    if (Object.keys(errs).length || !r.success) { toast.error("Please fix the highlighted fields"); return; }
     const id = crypto.randomUUID();
     addCandidate({
       id,
