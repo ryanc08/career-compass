@@ -1,0 +1,703 @@
+{
+    "Healthcare & Medical": {
+        "Advanced Medical Practitioners": {
+            "General Practitioner": "Diagnose illnesses, prescribe medications, and manage routine comprehensive patient care plans. [No Core License Required Beyond MD/DO]",
+            "Pediatrician": "Provide specialized physical, developmental, and medical care for infants, children, and adolescents. [Board Certification in Pediatrics]",
+            "Psychiatrist": "Diagnose, treat, and provide therapeutic interventions for complex mental health conditions and chemical imbalances. [Board Certification in Psychiatry]",
+            "Oncologist": "Oversee cancer screenings, formal diagnoses, chemical treatments, and long-term oncology care tracking. [Board Certification in Oncology]",
+            "Dermatologist": "Treat complex skin, hair, nail disorders, and perform targeted surgical biopsies or removals. [Board Certification in Dermatology]",
+            "Cardiologist": "Evaluate cardiovascular performance, treat coronary heart defects, and manage rehabilitation schedules. [Board Certification in Cardiology]",
+            "Neurologist": "Research, diagnose, and treat chronic issues impacting the brain, spinal cord, and central nervous system. [Board Certification in Neurology]",
+            "Pathologist": "Analyze laboratory tissue biopsies, blood samples, and bodily fluids to verify medical diagnoses. [Board Certification in Pathology]",
+            "Obstetrician/Gynecologist": "Manage pregnancy development, deliver infants, and administer reproductive system health screenings. [Board Certification in OB/GYN]"
+        },
+        "Surgical & Intensive Care Specialist": {
+            "Surgeon": "Execute advanced physical operative procedures to repair injuries, fix deformities, or cure diseases. [Board Certification in Surgery]",
+            "Anesthesiologist": "Formulate sedation plans, administer anesthesia, and monitor patient vital signs throughout operations. [Board Certification in Anesthesiology]",
+            "Nurse Anesthetist": "Assist or independently administer surgical sedation and oversee post-operative recovery monitoring. [CRNA Certification]",
+            "Surgical Technologist": "Sterilize operative environments, arrange surgical tool arrays, and assist surgeons mid-procedure. [Certified Surgical Technologist - CST]"
+        },
+        "Advanced Nursing & Clinical Care": {
+            "Registered Nurse": "Coordinate daily clinical treatment, administer prescribed medications, and manage direct patient records. [NCLEX-RN & State Nursing License]",
+            "Nurse Practitioner": "Conduct clinical patient evaluations, prescribe therapies, and manage independent primary care panels. [NP Certification & Advanced Practice License]",
+            "Physician Assistant": "Practice medicine under physical physician oversight to diagnose conditions and determine treatments. [PA-C Certification & State License]",
+            "Nurse Midwife": "Provide comprehensive prenatal counseling, manage natural labor processes, and deliver infants. [Certified Nurse-Midwife - CNM]",
+            "Clinical Nurse Specialist": "Optimize local nursing care quality, design training initiatives, and manage specialized ward guidelines. [CNS Certification]"
+        },
+        "Technical Support & Clinical Operations": {
+            "Pharmacist": "Compand, inspect, dispense prescription drugs, and counsel patients on pharmaceutical interactions. [NAPLEX & State PharmD License]",
+            "Radiologic Technologist": "Calibrate and run specialized diagnostic imaging equipment like X-rays and CT scanners. [ARRT Certification]",
+            "Medical Laboratory Technician": "Run standardized laboratory assays on blood, biological fluids, and chemical cultures. [ASCP Certification]",
+            "Phlebotomist": "Perform direct venipuncture procedures to draw medical blood samples for laboratory analysis. [CPT Certification]",
+            "EKG Technician": "Run electrocardiogram equipment to track and record patient cardiac rhythms. [CET Certification]",
+            "Dialysis Technician": "Prep, maintain, and run hemodialysis machinery for chronic kidney failure patients. [CCHT Certification]",
+            "Biomedical Equipment Technician": "Calibrate, repair, and run diagnostic clinical hardware and monitoring systems. [CBET Certification]"
+        },
+        "Allied Health & Rehabilitation": {
+            "Physical Therapist": "Design and implement movement restoration programs to mitigate injury pain and structural limitations. [NPTE & State PT License]",
+            "Occupational Therapist": "Train injured or disabled patients to perform essential daily living and working activities. [NBCOT & State OT License]",
+            "Respiratory Therapist": "Administer acute cardiopulmonary treatments, run ventilators, and handle airway management. [RRT Certification]",
+            "Chiropractor": "Apply physical neuromusculoskeletal structural adjustments to relieve spinal or joint strain. [NBCE & State DC License]",
+            "Podiatrist": "Provide specialized medical and surgical interventions for foot, ankle, and lower leg conditions. [NBPME & State DPM License]",
+            "Dietitian/Nutritionist": "Formulate clinical dietary regimens to manage metabolic issues and maintain systemic wellness. [RDN Credential]",
+            "Audiologist": "Test hearing performance, calibrate tracking systems, and prescribe acoustic amplification devices. [Praxis Exam & State AuD License]",
+            "Speech-Language Pathologist": "Diagnose and treat communication barriers, cognitive speech issues, and swallowing difficulties. [CCC-SLP Credential]"
+        },
+        "Dental Operations": {
+            "Dental Hygienist": "Perform specialized periodontal cleaning procedures, take dental radiographs, and apply sealants. [NBDHE & State RDH License]",
+            "Dental Assistant": "Assist chairside during oral procedures, sterilize dental instruments, and manage patient files. [CDA Certification]",
+            "Orthodontist": "Design and install corrective structural frameworks like braces to adjust jaw and tooth alignment. [State Dental & Orthodontic Specialty License]",
+            "Periodontist": "Treat deep inflammatory gum diseases and install structural dental implant systems. [State Dental & Periodontic Specialty License]",
+            "Endodontist": "Perform advanced root canal therapies to repair internal tooth nerve networks. [State Dental & Endodontic Specialty License]"
+        },
+        "Nursing Assistance & Direct Aid": {
+            "Licensed Practical Nurse": "Administer basic medical treatments, track vitals, and provide routine care under RN oversight. [NCLEX-PN & State LPN License]",
+            "Certified Nursing Assistant": "Assist bedbound patients with mobility, feeding, hygiene, and daily baseline tracking. [State CNA Registration]",
+            "Medical Assistant": "Collect patient histories, measure baseline vitals, and schedule routine clinical procedures. [CMA / RMA Certification]"
+        },
+        "Medical Administration & Research": {
+            "Medical Records Technician": "Organize, code, and secure digital medical records according to legal standards. [RHIT Certification]",
+            "Health Information Manager": "Oversee enterprise-wide clinical databases, compliance audits, and data protection security. [RHIA Certification]",
+            "Medical Transcriptionist": "Transcribe recorded voice dictations from medical practitioners into formal written records. [CHTL / AHDI Certification]",
+            "Clinical Research Coordinator": "Manage experimental drug trials, maintain protocol data tracking, and audit participant compliance. [CCRC / CCRA Certification]",
+            "Hospital Administrator": "Direct high-level organizational budgets, personnel development, and healthcare facility guidelines. [No Standard Board License; MHA preferred]",
+            "Chief Medical Officer": "Oversee clinical operations, enforce strict quality metrics, and manage medical staff hierarchies. [State Medical License]",
+            "Epidemiologist": "Track infectious disease patterns, research contagion pathways, and build community risk mitigation systems. [MPH / PhD Board Credential]",
+            "Public Health Director": "Design local wellness initiatives, manage regional program budgets, and enforce sanitation rules. [Public Health Board Certification]",
+            "Genetic Counselor": "Assess family genetic histories to map inherited conditions and forecast health risks. [ABGC Certification]",
+            "Toxicologist": "Investigate biochemical reactions to toxic materials, poisons, and external environmental contaminants. [DABT Certification]",
+            "Virologist": "Conduct biological research on viral structures, mutation pathways, and countermeasure vaccine designs. [PhD / Specialty Board Board Credential]"
+        },
+        "Emergency Services": {
+            "Paramedic": "Provide advanced emergency medical care and field trauma stabilization inside mobile rescue units. [NREMT Paramedic Certification & State License]",
+            "Emergency Medical Technician": "Administer primary first aid, stabilize structural fractures, and transport emergency patients. [NREMT-EMT Certification]",
+            "Flight Nurse": "Provide critical care inside medical transport aircraft during emergency medical evacuations. [CFRN Certification & State RN License]"
+        },
+        "Veterinary Services": {
+            "Veterinary Surgeon": "Perform complex surgical procedures on domestic, farm, or exotic animal populations. [DVM/VMD Degree & DACVS Board Certification]",
+            "Veterinary Technician": "Run animal diagnostics, assist during surgeries, and administer veterinary medications. [VTNE & State VT License]",
+            "Veterinary Assistant": "Maintain veterinary kennel sanitation, feed patients, and restrain animals during medical exams. [AVA Certification]"
+        }
+    },
+    "Technology & Information Systems": {
+        "Core Systems Architecture & Leadership": {
+            "Systems Architect": "Design complex multi-tier enterprise systems infrastructures and verify system scalability profiles. [TOGAF / AWS Certified Solutions Architect Professional]",
+            "Cloud Architect": "Map distributed cloud frameworks, outline data ingestion pipelines, and determine cloud service layers. [AWS / Azure Cloud Architect Professional]",
+            "Solutions Architect": "Map out localized software and infrastructure components to resolve business processing barriers. [AWS Certified Solutions Architect / Google Professional Cloud Architect]",
+            "Chief Information Officer": "Manage corporate data integration strategies, IT assets, and company-wide digital investments. [ITIL Master / CGEIT]",
+            "Chief Technology Officer": "Oversee engineering teams, dictate core technical stacks, and guide product deployments. [No Required Board License]"
+        },
+        "Development & Software Engineering": {
+            "Software Engineer": "Write scalable code bases, engineer underlying software packages, and build core desktop frameworks. [No Mandatory License; Technical Degree/Certifications]",
+            "Full-Stack Developer": "Manage both frontend interface environments and backend database business logic systems. [No Required License]",
+            "Front-End Developer": "Build interactive user interfaces, visual design modules, and responsive browser actions. [No Required License]",
+            "Back-End Developer": "Build server-side operational layers, data routers, and external application programming interfaces (APIs). [No Required License]",
+            "Mobile Application Developer": "Code optimized native applications for iOS and Android hardware deployment environments. [No Required License]",
+            "Video Game Developer": "Program interactive game mechanics, logic engines, and rendering pipelines for games. [No Required License]",
+            "Embedded Systems Engineer": "Write low-level firmware to run specialized microcontrollers and physical hardware systems. [No Required License]",
+            "Mainframe Programmer": "Maintain, update, and manage legacy high-compute enterprise mainframes. [IBM Certified Mainframe Professional]",
+            "Blockchain Developer": "Build secure distributed consensus structures, smart contracts, and cryptographic protocols. [Certified Blockchain Developer]"
+        },
+        "Data Analytics & Artificial Intelligence": {
+            "Data Scientist": "Build predictive data modeling frameworks, run regressions, and uncover actionable operations trends. [No Mandatory License]",
+            "Data Engineer": "Assembled enterprise data ingestion frameworks, data lakes, and structured extraction pipelines (ETL). [Google Professional Data Engineer / CCP Data Engineer]",
+            "Data Analyst": "Query data sets to build operational metrics dashboards and identify localized trends. [CCA Data Analyst / Microsoft Power BI Analyst]",
+            "Machine Learning Engineer": "Train complex algorithmic systems, build weights, and deploy production model nodes. [AWS Certified Machine Learning - Specialty]",
+            "AI Research Scientist": "Design advanced foundational machine architectures and push neural processing thresholds. [PhD in Computer Science / AI Specialty]"
+        },
+        "Infrastructure & Operations Engineering": {
+            "DevOps Engineer": "Manage delivery pipelines (CI/CD), automate testing setups, and manage runtime configurations. [AWS Certified DevOps Engineer Professional / CKA]",
+            "Cloud Engineer": "Manage live cloud storage buckets, provision computing nodes, and balance resource loads. [AWS SysOps Administrator / Associate Cloud Engineer]",
+            "Site Reliability Engineer": "Audit live application availability, monitor log traces, and resolve active systems failures. [CKA / AWS Professional DevOps]",
+            "Release Manager": "Manage code deployments, branch lifecycles, and cross-team code release versioning. [ITIL / Scrum Master Certifications]",
+            "Systems Integrator": "Connect separate software modules into unified enterprise operational frameworks. [No Required License]"
+        },
+        "Security & Risk Mitigation": {
+            "Cybersecurity Analyst": "Monitor threat logs, evaluate system weaknesses, and respond to live network attacks. [CompTIA Security+ / CEH]",
+            "Information Security Manager": "Enforce data access rules and audit corporate security frameworks. [CISM / CISSP Certification]",
+            "Penetration Tester": "Conduct simulated network attacks to uncover and document perimeter vulnerabilities. [CEH / OSCP Certification]",
+            "Security Operations Center Analyst": "Evaluate real-time security alerts and flag active malware indicators. [CompTIA CySA+ / Security+]",
+            "Network Security Engineer": "Deploy corporate firewalls, manage virtual private networks, and configure token access profiles. [CCNP Security / PCNSE]",
+            "IT Auditor": "Review system control structures to verify regulatory data alignment and track digital assets. [CISA Certification]",
+            "Data Governance Officer": "Establish corporate data classification policies, verify retention rules, and oversee privacy compliance. [CDMP / CIPP Certification]"
+        },
+        "Systems & Network Administration": {
+            "Network Administrator": "Configure local routers, switches, network interfaces, and maintain active intranet links. [CCNA / CompTIA Network+]",
+            "Network Engineer": "Map complex communication topologies, choose physical fiber arrays, and optimize data routing paths. [CCNP / Juniper JNCIP]",
+            "Network Architect": "Outline high-level area networking blueprints and evaluate data transmission protocols. [CCIE / AWS Certified Advanced Networking]",
+            "Systems Administrator": "Manage enterprise server OS updates, track server resource limits, and provision access accounts. [CompTIA Linux+ / MCSA]",
+            "Database Administrator": "Manage indexing structures, write backup schedules, and optimize database queries. [Oracle Certified Professional / Microsoft Azure Database Administrator]"
+        },
+        "Operational Support & Project Management": {
+            "IT Support Specialist": "Resolve hardware faults, install operational applications, and configure local business machines. [CompTIA A+ / ITIL Foundation]",
+            "Help Desk Technician": "Respond to user help tickets, reset account access keys, and walk clients through basic fixes. [CompTIA A+ / Google IT Support Certificate]",
+            "IT Project Manager": "Track software development sprint scopes, manage resources, and oversee technical timelines. [PMP Certification]",
+            "Scrum Master": "Facilitate daily developer check-ins, remove workflow blockers, and balance team workloads. [Certified ScrumMaster - CSM]",
+            "Agile Coach": "Train cross-functional units on iterative development workflows and collaborative management. [PMI-ACP / ICP-ACC]",
+            "Product Manager": "Outline product development roadmaps, clarify product features, and connect user feedback to engineers. [No Mandatory License]",
+            "Business Systems Analyst": "Translate business requirements into clear data flow blueprints for software engineering teams. [CBAP Certification]",
+            "QA Automation Engineer": "Code automated testing routines to verify code performance across various platforms. [ISTQB Advanced Level Test Automation Engineer]",
+            "Software Tester": "Run manual test scripts, document unexpected bugs, and log application performance. [ISTQB Certified Tester]",
+            "UI/UX Architect": "Structure overall layout navigation maps and user testing workflows. [No Mandatory License]",
+            "Webmaster": "Monitor active website availability, update landing page components, and patch server assets. [No Mandatory License]",
+            "SEO Engineer": "Tweak website indexing code, optimize data structures, and increase search system rankings. [No Mandatory License]",
+            "IoT Specialist": "Connect physical smart device sensors to analytical cloud tracking systems. [No Required Board License]"
+        }
+    },
+    "Finance & Accounting": {
+        "Executive Leadership & Corporate Controls": {
+            "Chief Financial Officer": "Direct enterprise investment strategies, manage risk models, and verify corporate financial health. [CPA / CFA Certification]",
+            "Corporate Controller": "Manage corporate accounting systems, verify financial reports, and oversee tax filing procedures. [CPA / CMA Certification]",
+            "Treasurer": "Direct liquid asset allocations, monitor corporate banking networks, and manage debt frameworks. [CTP Certification]",
+            "Finance Director": "Oversee accounting division budgets, monitor spending trends, and guide long-term planning. [CPA / MBA]"
+        },
+        "Public & Corporate Accounting": {
+            "Certified Public Accountant": "Audit corporate books, verify financial accuracy, and sign official tax declarations. [Uniform CPA Exam & State Board License]",
+            "Accountant": "Balance general ledger files, categorize expenses, and draft monthly financial reporting summaries. [Accounting Degree / CPA optional]",
+            "Forensic Accountant": "Investigate hidden asset trails, trace corporate fraud, and prepare documentation for court trials. [CFF / CFE Certification]",
+            "Auditor": "Review organizational records to identify processing gaps or financial misstatements. [CIA / CPA Certification]",
+            "Internal Auditor": "Evaluate in-house financial control structures to locate internal processing oversights. [CIA Certification]",
+            "External Auditor": "Inspect corporate accounting records on behalf of outside regulatory institutions. [CPA / CIA Certification]",
+            "Bookkeeper": "Record daily business receipts, invoice status codes, and maintain basic account registers. [CB / Caito Bookkeeper Certification]",
+            "Payroll Specialist": "Process employee timesheets, configure tax withholdings, and manage direct deposit runs. [CPP / FPC Certification]",
+            "Accounts Payable Clerk": "Match supplier bills to purchase orders and schedule vendor payments. [No Mandatory Board License]",
+            "Accounts Receivable Clerk": "Issue client invoices, track outstanding balances, and log incoming business revenue. [No Mandatory Board License]",
+            "Billing Clerk": "Calculate specific project cost tabs and build itemized fee statements for clients. [No Mandatory Board License]"
+        },
+        "Financial Analysis & Corporate Strategy": {
+            "Financial Analyst": "Model corporate investment outcomes, build pricing matrix files, and predict division returns. [CFA / CFP Certification]",
+            "Budget Analyst": "Track internal spending variance reports and allocate capital across distinct operational units. [CGFM Certification]",
+            "Cost Estimator": "Aggregate physical materials pricing, trade labor rates, and manufacturing tabs for project bids. [CCE / CEP Certification]",
+            "Quantitative Analyst": "Program complex algorithmic trading models and track high-frequency market probabilities. [No Required Board License; CFA helpful]",
+            "Strategic Planner": "Map long-term market opportunities, model corporate expansions, and plan restructuring schedules. [No Mandatory Board License]",
+            "Financial Economist": "Study systemic macroeconomic trends, interest rate movements, and market cycles. [PhD in Economics / Specialty Credentials]"
+        },
+        "Risk Management & Actuarial Science": {
+            "Risk Manager": "Model potential business losses and establish capital preservation frameworks. [FRM / PRM Certification]",
+            "Actuary": "Model risk probabilities via advanced calculations to build actuarial tables for long-term insurance policies. [ASA / FSA Designation]",
+            "Actuarial Assistant": "Process statistical data pools to support actuary mathematical projection work. [Passing initial Actuarial Exams]",
+            "Compliance Officer": "Enforce adherence to financial industry rules, market regulations, and investment laws. [CRCM / CAMS Certification]",
+            "Financial Compliance Analyst": "Audit internal trading records and account filings to flag potential regulatory compliance gaps. [CAMS Certification]"
+        },
+        "Asset & Wealth Management": {
+            "Investment Banker": "Structure corporate stock issuances, model business mergers, and coordinate debt offerings. [FINRA Series 79 & Series 63 Licenses]",
+            "Fund Manager": "Allocate pooled investment funds across diversified asset classes to hit return targets. [CFA Charterholder & FINRA Registration]",
+            "Venture Capitalist": "Evaluate early-stage startup metrics to inject private capital for equity shares. [No Mandatory License; FINRA exams optional]",
+            "Private Equity Associate": "Conduct operational reviews on mature companies to clear paths for private buyout acquisitions. [No Mandatory License; CFA common]",
+            "Merger & Acquisitions Analyst": "Value targeted corporate properties and build integration cost sheets. [FINRA Series 79]",
+            "Portfolio Manager": "Oversee high-net-worth client asset models and adjust security balances to fit risk profiles. [CFA Charterholder]",
+            "Wealth Management Advisor": "Map long-term asset development and capital preservation strategies for individual clients. [CFP / AWMA Certification & FINRA Series 7]",
+            "Financial Planner": "Design personalized savings benchmarks, tax-advantaged structures, and retirement plans. [CFP Certification]",
+            "Stockbroker": "Route client security buy and sell executions through public market exchanges. [FINRA Series 7 & Series 63 / 66 Licenses]",
+            "Commodity Trader": "Speculate on future bulk materials pricing like metals, grains, and fuel volumes. [NFA Series 3 License]"
+        },
+        "Banking Operations & Lending": {
+            "Loan Officer": "Assess loan applicant files, verify collateral structures, and authorize credit options. [NMLS License for Mortgage Loan Officers]",
+            "Credit Analyst": "Evaluate background credit histories and debt-to-income ratios to score lending risks. [CBCA Certification]",
+            "Underwriter": "Set specific policy terms, evaluate asset values, and approve insurance or mortgage coverages. [CLU / CPCU Specialty Credentials]",
+            "Mortgage Broker": "Connect prospective homebuyers to optimal wholesale mortgage options. [State Mortgage Broker License & NMLS]",
+            "Escrow Officer": "Hold real estate transaction funds in secure neutral accounts until contract terms are met. [State Escrow License / Title Insurance License]",
+            "Loan Processor": "Gather applicant tax verifications, title histories, and structure clean loan packages for underwriting review. [No Mandatory License; NMLS optional]",
+            "Bank Teller": "Process over-the-counter checking deposits, verify check endorsements, and dispense physical currency. [No Required Board License]",
+            "Branch Manager": "Oversee localized retail bank branch staff, vault operations, and local lending performance. [FINRA Series 6 / 7 depending on bank products]",
+            "Microfinance Officer": "Coordinate small capital business loans within underdeveloped communities or emerging markets. [No Required Board License]"
+        },
+        "Debt Recovery & Claims": {
+            "Claims Adjuster": "Evaluate physical property damage to determine insurance payout obligations. [State Claims Adjuster License]",
+            "Treasury Analyst": "Track short-term cash positions and manage corporate credit lines. [CTP Certification]",
+            "Tax Attorney": "Litigate complex corporate tax conflicts and structure major transactional protections. [Juris Doctor & State Bar License]",
+            "Collections Specialist": "Trace past-due account debts and negotiate structured payoff agreements with debtors. [FDCPA Compliance Certification]"
+        }
+    },
+    "Education & Training": {
+        "K-12 Institutional Instruction": {
+            "Kindergarten Teacher": "Introduce foundational learning behaviors and baseline literacy blocks to early learners. [State Teaching License / Elementary Certification]",
+            "Elementary School Teacher": "Build core math, language, and social skills across structured primary grade groups. [State Elementary Education Teaching License]",
+            "Middle School Teacher": "Deliver specialized subject matter instruction tailored for intermediate students. [State Subject-Specific Teaching License]",
+            "High School Teacher": "Prepare secondary students for university entrance boards or direct career roles. [State Secondary Education Teaching License]",
+            "Special Education Teacher": "Adapt standard lesson frameworks to accommodate cognitive or physical learning differences. [State Special Education License]",
+            "Substitute Teacher": "Execute pre-arranged lesson plans when full-time instructional staff are out. [State Substitute Permit / Teaching License]",
+            "Paraprofessional": "Assist individual students with special needs to ensure clean classroom participation. [ParaPro Assessment Certification]",
+            "Teaching Assistant": "Help grade student worksheets, prep room activities, and manage classroom order. [State Teaching Assistant Certification]"
+        },
+        "Higher Education & Research": {
+            "University Professor": "Conduct high-level academic research, publish peer-reviewed papers, and deliver lecture courses. [Master's or Doctoral Degree (PhD)]",
+            "Academic Dean": "Manage university department budgets, guide research focuses, and evaluate tenure tracks. [PhD / Advanced Academic Board Credentials]",
+            "Registrar": "Oversee official enrollment tracking, verify graduation checks, and issue academic transcripts. [No Required Board License]",
+            "Admissions Counselor": "Review applicant academic records and manage student recruitment pipelines. [No Required Board License]",
+            "Financial Aid Advisor": "Process student aid packages, cross-check scholarship pools, and allocate loan options. [NASFAA Certification]",
+            "Academic Advisor": "Guide students through degree mapping plans and course prerequisite checks. [No Required Board License]"
+        },
+        "Corporate & Adult Learning": {
+            "Corporate Trainer": "Conduct workforce skill development sessions and manage workplace regulatory compliance training. [CPLP / CPTD Certification]",
+            "Instructional Designer": "Structure course curriculum architectures, build sequencing logic, and manage learning media. [No Mandatory License; Specialty Certificates common]",
+            "Learning Development Specialist": "Analyze workforce skill gaps and design continuous education frameworks. [CPTD Certification]",
+            "Adult Literacy Instructor": "Teach reading, writing, and foundational math competencies to adult learners. [State Adult Education License]",
+            "Continuing Education Coordinator": "Manage non-degree certification programs and professional development modules. [No Mandatory License]"
+        },
+        "Specialized & Vocational Instruction": {
+            "ESL Instructor": "Teach English language immersion blocks to non-native speech populations. [TESOL / TEFL Certification]",
+            "Curriculum Developer": "Write educational text modules, map state testing standards, and engineer instructional materials. [State Instructional Specialist License]",
+            "Educational Consultant": "Audit institutional instruction systems and suggest performance optimization changes. [No Required Board License]",
+            "Vocational Teacher": "Train students in specific career methodologies and hands-on skill paths. [State Career and Technical Education (CTE) License]",
+            "Trade School Instructor": "Deliver technical training for licensed trades like electrical, welding, or precision mechanics. [Journeyman / Master Trade License]",
+            "Driving Instructor": "Teach automotive safety regulations and monitor behind-the-wheel performance. [State DMV Driving Instructor License]",
+            "Flight Instructor": "Teach aircraft flight mechanics, aerospace regulations, and monitor actual flight hours. [FAA Certified Flight Instructor - CFI]",
+            "E-Learning Developer": "Code interactive online learning portals and digital knowledge assessment modules. [No Required Board License]"
+        },
+        "Student Support & Counseling": {
+            "Guidance Counselor": "Assist students with academic planning, social development, and university application steps. [State School Counselor License / Certification]",
+            "School Psychologist": "Diagnose learning challenges, administer cognitive assessments, and craft behavioral support plans. [NCSP Certification & State License]",
+            "School Social Worker": "Coordinate family interventions, address student attendance issues, and connect students to community aid. [LCSW / State School Social Worker License]",
+            "Speech-Language Pathologist": "Remedy communication impairments and address developmental articulation delays in students. [CCC-SLP Credential & State License]",
+            "Librarian": "Manage digital knowledge catalogs, curate research databases, and teach information literacy. [State School Librarian License / MLIS Degree]",
+            "Library Assistant": "Catalog incoming book assets, manage front-desk checkout queues, and restore shelf order. [No Required Board License]",
+            "Archivist": "Preserve historical documents, maintain text assets, and secure fragile print media. [Certified Archivist - CA]",
+            "Museum Educator": "Design interactive tour programs, lecture on curated assets, and manage public learning events. [No Required Board License]",
+            "Tutor": "Deliver targeted, one-on-one instruction to reinforce specific course materials. [CRLAs / NTA Tutor Certification optional]",
+            "Literacy Coach": "Train school staff on reading development methods and audit low-performance student scores. [State Reading Specialist License]",
+            "Dean of Students": "Manage campus behavior policies, oversee student groups, and direct student housing rules. [No Mandatory Board License]",
+            "Test Preparation Tutor": "Train students in standardized test formats, test pacing tactics, and core exam subjects. [No Mandatory Board License]"
+        },
+        "Fitness & Performance Training": {
+            "Fitness Instructor": "Group-train clients through targeted cardiovascular workouts and strength routines. [ACE / NASM Personal Trainer Certification]",
+            "Yoga Teacher": "Guide students through physical posture alignments, breath control, and core stability routines. [RYT-200 / RYT-500 Registration]",
+            "Music Teacher": "Teach music theory, structural notation reading, and instrument finger placements. [State Music K-12 Teaching License for schools]",
+            "Art Instructor": "Teach foundational drawing methods, color blending principles, and tactile sculpting skills. [State Art K-12 Teaching License for schools]",
+            "Drama Coach": "Direct performance delivery, character blocking, and vocal projection mechanics. [State Theater/Drama Teaching License for schools]",
+            "Athletic Coach": "Manage team game strategies, conduct physical skill drills, and guide player development. [NFHS Accredited Interscholastic Coach License]",
+            "Athletic Director": "Oversee school sports budgets, coordinate game venue safety, and manage coach schedules. [CAA Certification]"
+        }
+    },
+    "Sales & Marketing": {
+        "Executive Leadership & Strategic Management": {
+            "Chief Marketing Officer": "Set high-level brand acquisition frameworks, manage advertising budgets, and direct long-term strategy. [No Mandatory Board License]",
+            "Vice President of Sales": "Build international sales pipeline architectures and manage high-level revenue goals. [No Mandatory Board License]",
+            "Sales Director": "Coordinate regional sales offices, set divisional sales quotas, and manage client capture playbooks. [No Mandatory Board License]",
+            "Marketing Director": "Oversee multi-channel creative projects, verify campaign metrics, and guide marketing staff. [No Mandatory Board License]"
+        },
+        "Account Management & Business Development": {
+            "Account Executive": "Direct pitches to enterprise clients, structure service contracts, and close new business accounts. [No Mandatory Board License]",
+            "Account Manager": "Maintain ongoing relationships with existing accounts to secure contract renewals. [No Mandatory Board License]",
+            "Key Account Manager": "Oversee high-value corporate accounts to protect core business revenue. [No Mandatory Board License]",
+            "Sales Development Representative": "Source business leads, run outreach calls, and qualify prospective clients. [No Mandatory Board License]",
+            "Business Development Manager": "Identify strategic industry partnerships and open new market segments. [No Mandatory Board License]"
+        },
+        "Field & Channel Sales": {
+            "Sales Representative": "Pitch product catalogs, demonstrate tool features, and handle regular client sales accounts. [No Required Board License]",
+            "Inside Sales Representative": "Close incoming customer leads via phone, digital communication channels, and CRM software. [No Required Board License]",
+            "Outside Sales Representative": "Travel to client locations to present product lines and negotiate in-person orders. [No Required Board License]",
+            "Telemarketer": "Run outbound telephone outreach scripts to sell services directly to consumers. [No Required Board License]",
+            "Retail Sales Associate": "Manage brick-and-mortar storefront transactions, assist floor shoppers, and maintain product displays. [No Required Board License]",
+            "Real Estate Agent": "Assist home buyers or sellers with real estate listings, tours, and standardized offers. [State Real Estate Salesperson License]",
+            "Real Estate Broker": "Oversee real estate transactions, manage sales agencies, and verify escrow contracts. [State Real Estate Broker License]",
+            "Insurance Agent": "Match buyers to coverage policies, process applications, and sell life or property options. [State Insurance Producer License]",
+            "Manufacturer's Representative": "Wholesale specialized factory equipment to commercial distribution buyers. [CPMR Certification optional]",
+            "Merchandiser": "Optimize physical store shelf space layout, arrange promotional displays, and track inventory velocity. [No Required Board License]"
+        },
+        "Digital Marketing & Optimization": {
+            "SEO Specialist": "Tweak web layouts, track indexing rankings, and build keyword frameworks to optimize organic traffic. [Google Analytics / SEO Industry Certificates]",
+            "PPC Specialist": "Manage paid search engine advertising budgets, structure bid metrics, and track user conversion metrics. [Google Ads Certification]",
+            "Digital Marketing Specialist": "Deploy digital ad assets and evaluate web engagement metrics across platforms. [OMCA / OMCP Certification]",
+            "Email Marketing Specialist": "Design email nurturing programs, segment subscriber lists, and track click-through metrics. [HubSpot Email Marketing Certification]",
+            "Growth Hacker": "Run fast, iterative marketing experiments to maximize user acquisition loops. [No Mandatory Board License]"
+        },
+        "Content & Brand Strategy": {
+            "Content Strategist": "Outline enterprise media plans, organize content calendars, and ensure a unified brand voice. [No Mandatory Board License]",
+            "Brand Manager": "Control visual styling guidelines, monitor public brand sentiment, and direct new product launches. [No Mandatory Board License]",
+            "Product Marketing Manager": "Create product launch messaging frameworks and translate complex features into user benefits. [Product Marketing Alliance Certification]",
+            "Content Marketing Manager": "Direct the production of high-value articles, whitepapers, and videos to educate target audiences. [Content Marketing Certification]"
+        },
+        "Media Planning & Public Relations": {
+            "Media Buyer": "Negotiate pricing for commercial placements across television, radio, print, and digital networks. [No Mandatory Board License]",
+            "Media Planner": "Research consumer demographic targets to find the best ad placement channels. [No Mandatory Board License]",
+            "Public Relations Specialist": "Write company press releases, handle media inquiries, and manage company communications. [APR - Accredited in Public Relations]",
+            "Public Relations Director": "Coordinate corporate crisis communications and shape long-term public image strategy. [APR Credential]",
+            "Communications Manager": "Manage internal company announcements and ensure consistency across external messaging. [No Mandatory Board License]"
+        },
+        "Specialized Marketing Operations": {
+            "Social Media Coordinator": "Schedule daily social media updates and compile basic engagement reports. [No Mandatory Board License]",
+            "Social Media Manager": "Oversee multi-platform content strategies and optimize paid social ad spend. [No Mandatory Board License]",
+            "Community Manager": "Moderate customer discussion boards, handle user comments, and organize fan touchpoints. [No Mandatory Board License]",
+            "Influencer Relations Specialist": "Partner with online creators to coordinate branded product placements. [No Required Board License]",
+            "Promotions Manager": "Build short-term discount campaigns, sweepstakes events, and point-of-sale offers. [No Mandatory Board License]",
+            "Market Research Analyst": "Run target consumer focus groups, analyze industry data, and forecast competitor trends. [PRC Certification]",
+            "Marketing Coordinator": "Gather creative project files, track campaign timelines, and support marketing divisions. [No Mandatory Board License]",
+            "Event Marketing Specialist": "Coordinate brand presentation setups at trade shows, conventions, and live events. [No Mandatory Board License]",
+            "Affiliate Marketing Manager": "Manage commissions for third-party publishers who drive referral sales. [No Required Board License]",
+            "Brand Ambassador": "Highlight product features directly to consumers during live events or promotional tours. [No Required Board License]"
+        }
+    },
+    "Construction & Trades": {
+        "Project Leadership & Engineering": {
+            "General Contractor": "Manage full construction site scopes, source specialized trade subcontractors, and enforce safety rules. [State General Contractor License]",
+            "Construction Project Manager": "Track construction development budgets, coordinate supply paths, and manage construction timelines. [PMP / CCM Certification]",
+            "Construction Superintendent": "Direct daily on-site physical trade operations, schedule crews, and verify code compliance. [OSHA-30 & CCM Certification]",
+            "Civil Engineer": "Map large-scale municipal earthwork plans, concrete foundations, and drainage systems. [PE - Professional Engineer License]",
+            "Structural Engineer": "Structural calculate steel framework stresses, load-bearing capacities, and beam limits. [SE - Structural Engineer License]",
+            "Surveyor": "Measure exact land boundary coordinates, property layouts, and set project elevation pins. [PLS - Professional Land Surveyor License]",
+            "Surveying Technician": "Run physical transit levels, GPS positioning tools, and record field boundary data. [CST Certification]",
+            "Building Inspector": "Review structural construction steps to verify adherence to building codes and regulations. [ICC Certification & State Inspector License]",
+            "Safety Officer": "Enforce OSHA safety guidelines on-site, inspect safety rigging, and document incidents. [CHST / CSP Certification]"
+        },
+        "Mechanical, Electrical & Structural Systems": {
+            "Electrician": "Wire main electrical service panels, run structural conduit paths, and hook up fixture lines. [Journeyman / Master Electrician License]",
+            "Plumber": "Run water supply networks, join drain-waste-vent piping, and install fixtures. [Journeyman / Master Plumber License]",
+            "HVAC Technician": "Charge cooling systems, build sheet-metal duct networks, and wire furnace controls. [EPA Section 608 Certification & State License]",
+            "Pipefitter": "Install high-pressure industrial piping systems to route steam, chemicals, and fuels. [Journeyman Pipefitter License / Trade Certification]",
+            "Steamfitter": "Join heavy-duty steel pipe infrastructure for high-temperature steam distribution systems. [Trade Apprenticeship Certificate / License]",
+            "Boilermaker": "Assemble, weld, and maintain heavy industrial storage vessels and steam boilers. [Boilermaker Trade Certification]",
+            "Line Erector": "Climb high-voltage utility poles to string transmission wires and install step-down transformers. [Journeyman Lineman Certification]",
+            "Elevator Mechanic": "Calibrate elevator guide rails, wire elevator controllers, and inspect safety brake systems. [Certified Elevator Technician - CET / State License]"
+        },
+        "Fabrication & Metalworking": {
+            "Welder": "Fuse metal components using structural arc, MIG, or TIG welding rigs according to code. [AWS Certified Welder]",
+            "Sheet Metal Worker": "Fabricate, shape, and secure thin metal panels for specialized roofing or duct installations. [Trade Apprenticeship Certification]",
+            "Ironworker": "Set structural steel framework grids and tie steel rebar cages for reinforced concrete. [Journeyman Ironworker Certification]",
+            "Machinist": "Run precision metal lathes, mills, and CNC machinery to craft specific parts. [NIMS Certification]",
+            "Millwright": "Install, align, and maintain heavy-duty factory automated production lines and turbine assets. [NCCER Millwright Certification]"
+        },
+        "Structural Framing & Enclosures": {
+            "Carpenter": "Frame structural wood walls, hang roof truss assemblies, and build structural subfloors. [Journeyman Carpenter / NCCER Certification]",
+            "Roofer": "Lay down protective water barriers, space flashing arrays, and nail structural shingle or metal roofs. [State Roofing Contractor License]",
+            "Drywall Installer": "Hang gypsum wall panels across framed walls and square corner bead elements. [No Required Board License; Apprenticeship preferred]",
+            "Drywall Taper": "Spread joint compounds, lay reinforcement tape, and blend drywall seams. [No Required Board License]",
+            "Plasterer": "Apply protective and decorative plaster layers to interior or exterior walls. [Trade Apprenticeship Certificate]",
+            "Glazier": "Cut structural plate glass panels and install sealed commercial window systems. [State Glazier License / AGMT Certification]",
+            "Insulation Worker": "Install fiberglass batts, rockwool blankets, or spray expanding foam insulation into framing gaps. [OSHA Certification & Insulation Credential]"
+        },
+        "Finishing, Masonry & Finishes": {
+            "Mason": "Mix structural mortar, level string guides, and build structural concrete block or brick walls. [NCCER Masonry Certification]",
+            "Bricklayer": "Lay out face brick patterns, build brick arches, and joint mortar lines. [Trade Apprenticeship Certificate]",
+            "Concrete Finisher": "Screed poured concrete flatwork, tool clean expansion joints, and apply broom surface finishes. [ACI Certified Concrete Flatwork Finisher]",
+            "Tile & Marble Setter": "Set structural mud beds, lay down marble slabs, and set custom tile patterns. [CTEF Certified Tile Installer]",
+            "Carpet Installer": "Anchor tack strips, roll out underlayment padding, and power-stretch carpets into place. [CFI Certification]",
+            "Flooring Installer": "Install interlocking luxury vinyl planks, tongue-and-groove hardwood, or engineered wood floors. [NWFA Certification]",
+            "Painter": "Prep surfaces by sanding and filling, apply base primers, and paint interior or exterior walls. [No Mandatory License; EPA Lead-Safe Certification common]",
+            "Cabinetmaker": "Build custom wood cabinets, assemble face frames, and install functional drawer slides. [AWI Certification]",
+            "Wallpaper Hanger": "Apply specialized adhesives and hang patterns of decorative vinyl or paper sheets. [NGPP Certification]"
+        },
+        "Heavy Equipment Operations": {
+            "Crane Operator": "Rig heavy cargo lifts, read wind indicators, and maneuver structural elements with cranes. [CCO Crane Operator Certification]",
+            "Heavy Equipment Operator": "Operate heavy bulldozers, scrapers, and compactors to modify job site soil levels. [NCCER Heavy Equipment Operator Certification]",
+            "Excavator Operator": "Run hydraulic track hoes to dig utility line trenches and basement holes safely. [OSHA Excavator Operator Certification]",
+            "Forklift Driver": "Move heavy pallet loads, stock job materials, and load delivery flatbeds. [OSHA Forklift Operator Certification]"
+        }
+    },
+    "Administration & Office Support": {
+        "Executive Support & Management": {
+            "Executive Assistant": "Manage executive schedules, coordinate corporate travel, and filter sensitive business correspondence. [CAP Certification optional]",
+            "Office Manager": "Coordinate office budgets, manage local support teams, and source office supplies. [Certified Manager - CM]",
+            "Office Administrator": "Organize administrative record systems, audit facilities reports, and coordinate internal operations. [No Mandatory License]",
+            "Executive Coordinator": "Plan high-level board schedules, track corporate project updates, and format executive summaries. [No Mandatory License]",
+            "Board Secretary": "Take official board meeting minutes, log corporate resolutions, and distribute internal files. [No Mandatory License]",
+            "Chief Administrative Officer": "Structure corporate operations plans, oversee support frameworks, and evaluate workplace efficiency. [Advanced Business Degree preferred]",
+            "Operations Manager": "Oversee daily workflow routing, balance department workloads, and remove operational bottlenecks. [No Required License; Lean Six Sigma helpful]",
+            "Director of Operations": "Formulate long-term division workflows, manage operations budgets, and monitor productivity metrics. [Lean Six Sigma Black Belt common]",
+            "General Manager": "Direct total localized business personnel, track profit and loss metrics, and handle location performance. [No Required Board License]"
+        },
+        "Customer Service & Front Office": {
+            "Receptionist": "Route multi-line telephone traffic, welcome visiting clients, and handle incoming mail sorting. [No Required Board License]",
+            "Customer Service Representative": "Resolve customer account questions, track service adjustments, and log interface feedback. [Certified Customer Service Professional - CCSP]",
+            "Customer Service Manager": "Train service desks, monitor call performance metrics, and handle escalated consumer issues. [CCSP Certification]",
+            "Call Center Supervisor": "Track real-time call center queues, monitor agent calls for quality, and manage agent shifts. [No Required Board License]",
+            "Customer Success Manager": "Coordinate client onboarding setups and track service usage metrics to minimize account cancellations. [No Required Board License]",
+            "Guest Services Coordinator": "Handle corporate hospitality options, resolve visitor issues, and manage meeting room schedules. [No Required Board License]",
+            "Intake Specialist": "Interview incoming service applicants, verify eligibility forms, and manage preliminary case documentation. [No Required Board License]"
+        },
+        "Human Resources & Talent Acquisition": {
+            "Human Resources Manager": "Enforce corporate policy alignment, resolve workplace conflicts, and guide personnel management. [SHRM-CP / PHR Certification]",
+            "Human Resources Director": "Oversee company-wide human resource departments, benefit structures, and corporate safety regulations. [SHRM-SCP / SPHR Certification]",
+            "Human Resources Coordinator": "Coordinate new-hire onboarding steps, process background checks, and track employee files. [aPHR Certification]",
+            "Talent Acquisition Specialist": "Build company recruiting pipelines, screen job applicants, and manage job offer processes. [CIR / Recruiter Certifications]",
+            "Recruiter": "Match job seekers to active company vacancies and guide candidate interview paths. [No Required License]",
+            "Technical Recruiter": "Source candidates for highly specialized developer, data scientist, and engineering roles. [Tech Recruiter Certifications]",
+            "Headhunter": "Direct-search for high-level executives to fill senior corporate leadership positions. [No Required License]",
+            "Compensation & Benefits Manager": "Structure company healthcare benefits, retirement options, and manage pay scales. [CEBS / CCP Certification]",
+            "Training & Development Manager": "Oversee employee educational programs, compliance tests, and skill assessments. [CPTD Certification]",
+            "Employee Relations Specialist": "Mediate internal staff disagreements and investigate corporate policy breaches. [PHR / SHRM Certification]"
+        }
+    },
+    "Creative Arts & Design": {
+        "Visual Design & Branding": {
+            "Graphic Designer": "Layout marketing layouts, choose font assets, and combine graphic components for branding. [No Mandatory License; Portfolio Required]",
+            "UI/UX Designer": "Map software interface user journeys, wireframe layouts, and build interactive app mockups. [No Mandatory License]",
+            "UI/UX Architect": "Design structural logic flows and research overall navigation paths for digital applications. [No Mandatory License]",
+            "Concept Artist": "Draw preliminary environment designs, character concepts, and prop styles for creative projects. [No Mandatory License]",
+            "Art Director": "Guide visual style rules for print or digital media and manage creative design teams. [No Mandatory License]"
+        },
+        "Spatial, Architectural & Industrial Design": {
+            "Interior Designer": "Map indoor spatial layouts, pick material textures, and select lighting structures. [NCIDQ Certification & State License]",
+            "Industrial Designer": "Draft physical product designs, evaluate product use ergonomics, and select manufacturing materials. [No Mandatory License]",
+            "Package Designer": "Design product storage boxes, functional containers, and exterior marketing wraps. [No Mandatory License]",
+            "Exhibition Designer": "Plan layout paths, custom lighting systems, and structural asset points for museum displays. [No Mandatory License]",
+            "Landscape Architect": "Plan outdoor parks, manage soil grading maps, and choose botanical placements for properties. [LARE & State License]",
+            "Architect": "Draft complete structural building blueprints, calculate spatial scales, and verify building codes. [ARE & State Registered Architect License]",
+            "Architectural Draftsperson": "Use specialized CAD software to turn loose sketches into detailed building blueprints. [ADDA Draftsman Certification]"
+        }
+    },
+    "Hospitality & Tourism": {
+        "Lodging & Resort Management": {
+            "Hotel Manager": "Direct total lodging operations, balance seasonal room pricing grids, and manage customer service protocols. [CHAE / CHA Certification]",
+            "Resort Manager": "Oversee comprehensive recreational facilities, entertainment budgets, and high-capacity venue safety schedules. [CHA Certification]",
+            "Bed & Breakfast Keeper": "Manage localized guest accommodations, curate custom breakfast services, and handle independent vendor contracts. [Local Business License]",
+            "Spa Manager": "Direct staff schedules, enforce aesthetic room sanitation baselines, and oversee premium inventory pipelines. [Cosmetology / Salon Manager License]",
+            "Valet Attendant": "Manage guest vehicle logistics, handle key storage setups, and track incoming driveway traffic flow. [Valid Driver\\'s License]"
+        },
+        "Guest Services & Travel Operations": {
+            "Hotel Concierge": "Arrange high-end tour paths, secure private reservation allocations, and resolve guest accommodation queries. [Les Clefs d\u2019Or Certification]",
+            "Front Desk Agent": "Check in arrivals via database management systems, verify identity details, and process billing entries. [Certified Front Desk Representative]",
+            "Bellhop": "Assist arrivals with heavy physical luggage logistics, show room amenity features, and coordinate shuttle runs. [Valid Driver\\'s License]",
+            "Night Auditor": "Run late-night accounting reconciliations, compile daily occupancy records, and handle night front-desk actions. [Certified Front Desk Representative]",
+            "Travel Agent": "Build custom vacation packages, negotiate bulk booking discounts, and resolve airline disruption issues. [CTA / CTC Certification]",
+            "Travel Coordinator": "Arrange multi-tiered corporate travel routes, structure expense records, and enforce corporate travel policies. [GTP Certification]",
+            "Tour Operator": "Coordinate large-scale regional transportation logistics, secure group admission passes, and manage tour schedules. [Certified Tour Operator]",
+            "Tour Guide": "Lead group educational paths through historical sites and deliver informational speeches safely. [Local Tour Guide License]"
+        },
+        "Aviation & Maritime Hospitality": {
+            "Flight Attendant": "Deliver pre-flight safety briefings, manage cabin security during transit, and administer mid-flight medical responses. [FAA Certificate of Demonstrated Proficiency]",
+            "Cruise Director": "Coordinate live shipboard entertainment events, lead guest activities, and manage cruise entertainment staff. [STCW Maritime Security Certification]",
+            "Cruise Ship Crew Member": "Enforce standard ship safety drills, maintain guest deck spaces, and deliver hospitality services. [STCW Certification / Merchant Mariner Credential]"
+        },
+        "Culinary Arts & Kitchen Operations": {
+            "Executive Chef": "Design food menus, track kitchen ingredient cost tabs, and lead high-volume back-of-house kitchen units. [ACF Certified Executive Chef]",
+            "Sous Chef": "Direct real-time line cook operations, inspect incoming food qualities, and manage recipe execution baselines. [ACF Certified Sous Chef]",
+            "Pastry Chef": "Fabricate complex desserts, manage baking oven temperature parameters, and build structural sugar decorations. [ACF Certified Pastry Chef]",
+            "Line Cook": "Execute precise protein cooking times, maintain clean station setups, and process tickets down lines. [Food Handler Certification]",
+            "Prep Cook": "Clean raw produce assets, slice meats to specific portion counts, and mix base batch stocks. [Food Handler Certification]",
+            "Dishwasher": "Clean commercial cookware arrays, run high-temperature sanitizing systems, and manage chemical storage areas. [Food Handler Certification]"
+        },
+        "Food & Beverage Service": {
+            "Restaurant Manager": "Oversee restaurant shifts, monitor profit margins, and manage front-of-house server teams. [ServSafe Manager Certification]",
+            "Ma\u00eetre d\\u2019": "Orchestrate dining room floor seating configurations, manage elite VIP configurations, and guide server pacing. [Certified Dining Room Professional]",
+            "Host/Hostess": "Welcome dining arrivals, coordinate reservation logs, and wipe down entrance station assets. [Food Handler Certification]",
+            "Waiter/Waitress": "Collect custom table orders, deliver food courses, and process credit terminal transactions. [Food Handler / Responsible Beverage Service Certification]",
+            "Food Runner": "Transport hot food plates immediately from kitchen lines to designated table locations. [Food Handler Certification]",
+            "Busser": "Strip dirty plates from tables, wipe down dining surfaces, and restock clean silverware arrays. [Food Handler Certification]",
+            "Sommelier": "Design premium restaurant wine lists, manage inventory aging climates, and deliver table wine pairings. [Court of Master Sommeliers Certification]",
+            "Head Bartender": "Direct high-volume bar revenue targets, compile liquor usage records, and design signature drink mix scripts. [ServSafe Alcohol / RBS Certification]",
+            "Bartender": "Mix custom cocktails accurately, check customer age credentials, and manage immediate bar registers. [ServSafe Alcohol / RBS Certification]",
+            "Mixologist": "Design artisanal syrup extractions, analyze flavor profiles, and consult on elite beverage concepts. [ServSafe Alcohol / RBS Certification]",
+            "Barback": "Restock heavy liquor cases, slice beverage garnishes, and run clean glass cleaning loops. [Food Handler Certification]"
+        },
+        "Event Planning & Recreation": {
+            "Event Planner": "Outline comprehensive corporate convention plans, select event venues, and manage total project vendor budgets. [CMP Certification]",
+            "Event Coordinator": "Set up on-site physical booth grids, monitor live event schedules, and direct floor staff. [Certified Event Planning Specialist]",
+            "Wedding Planner": "Manage wedding design selections, map tight reception timelines, and run rehearsal directions. [CWP Certification]",
+            "Conference Organizer": "Coordinate keynote speaker paths, manage multi-room audio visual systems, and track attendee registration links. [CMP Certification]",
+            "Theme Park Attendant": "Run motorized ride control interfaces, verify passenger harness constraints, and monitor line safety queues. [Certified Amusement Ride Safety Inspector]",
+            "Lifeguard": "Monitor open swimming pools, perform deep-water rescue maneuvers, and administer immediate first-aid care. [Lifeguarding/First Aid/CPR/AED Certification]",
+            "Casino Dealer": "Run automated table card shufflers, calculate payouts, and enforce strict table betting rules. [State Gaming License]",
+            "Pit Boss": "Monitor gaming floor layouts to prevent tracking scams and resolve betting disputes. [State Gaming License]",
+            "Porter": "Maintain overall cleanliness baselines across casino or resort walkways and clear debris. [Food Handler Certification]"
+        }
+    },
+    "Legal & Law Enforcement": {
+        "Judicial & Corporate Legal Counsel": {
+            "Attorney": "Litigate complex court trials, write formal protective contract agreements, and deliver legal defense counsel. [Juris Doctor Degree & State Bar License]",
+            "Judge": "Preside over formal court litigation, rule on evidentiary motions, and issue binding legal sentences. [State Bar License & Judicial Appointment]",
+            "Magistrate": "Issue immediate criminal arrest warrants, determine cash bail structures, and adjudicate small civil disputes. [State Judicial Certification]",
+            "Administrative Law Judge": "Adjudicate technical regulatory disputes inside specialized government administrative agencies. [State Bar License]",
+            "Corporate Counsel": "Direct in-house corporate contract verifications, protect intellectual properties, and manage corporate compliance structures. [State Bar License]",
+            "Criminal Prosecutor": "Represent state interests during criminal cases, present evidence arrays, and argue criminal convictions. [State Bar License]",
+            "Public Defender": "Provide court defense services for individuals who cannot fund private legal counsel. [State Bar License]",
+            "Tax Attorney": "Litigate corporate tax disputes against state bodies and design tax-advantaged business layouts. [State Bar License]"
+        },
+        "Legal Operational Support": {
+            "Paralegal": "Draft preliminary legal brief motions, organize evidence discovery binders, and check case law precedents. [NALA / NFPA Certification]",
+            "Legal Secretary": "Format formal court filing paperwork, manage legal office schedules, and process client intake cards. [ALS / PLS Certification]",
+            "Law Clerk": "Conduct deep academic legal research for judges, write initial opinion drafts, and summarize active case filings. [Juris Doctor Degree]",
+            "Legal Assistant": "Schedule attorney depositions, maintain case files, and route administrative telephone communications. [Certified Legal Assistant]",
+            "Court Reporter": "Run specialized stenotype machines to record verbatim transcripts of active court actions. [NCRA Registered Professional Reporter Certification]",
+            "Court Administrator": "Manage judicial system employee processing paths, oversee court operating budgets, and schedule trial dockets. [Certified Court Manager]",
+            "Legal Compliance Officer": "Audit organizational records to verify tracking alignment with state processing regulations. [CCEP Certification]"
+        },
+        "Dispute Resolution": {
+            "Hearing Officer": "Review administrative appeals data, hear testimony paths, and issue binding agency decisions. [State Certification / Bar License]",
+            "Arbitrator": "Hold private conflict hearings to deliver binding financial or contractual resolutions outside courts. [AAA / State Certification]",
+            "Mediator": "Lead structured neutral negotiation channels to help disputing parties find mutually accepted settlement terms. [State Mediator Certification]",
+            "Negotiator": "Formulate critical strategic compromise plans to resolve high-value corporate or labor union impasses. [Conflict Resolution Certification]"
+        },
+        "Local & State Law Enforcement": {
+            "Police Officer": "Patrol local municipal zones, enforce traffic laws, and execute immediate criminal arrests. [POST Certification]",
+            "Detective": "Conduct crime scene investigations, interview case witnesses, and process evidence trails to solve cases. [POST Certification & Detective License]",
+            "Deputy Sheriff": "Enforce county laws, manage county jail facilities, and execute formal court-ordered eviction processing steps. [POST Certification]",
+            "State Trooper": "Patrol state highway networks, coordinate high-speed accident reconstruction models, and enforce state traffic laws. [POST Certification]",
+            "Highway Patrol Officer": "Monitor vehicle speed velocities across interstates, manage DUI check steps, and clear highway hazards. [POST Certification]",
+            "Transit Police Officer": "Enforce safety guidelines across public rail, bus, and transit station architectures. [POST Certification]",
+            "Bailiff": "Maintain order inside active courtrooms, secure physical trial defendants, and guard jury deliberations. [POST Certification]"
+        },
+        "Federal Enforcement & Intelligence": {
+            "Federal Agent": "Conduct broad multi-state federal investigations, execute federal search warrants, and combat federal violations. [Federal Law Enforcement Training Center (FLETC) Certification]",
+            "Border Patrol Agent": "Monitor international border perimeters, stop unauthorized entry routes, and process customs violations. [CBP Academy Certification]",
+            "Customs Inspector": "Inspect inbound commercial cargo manifests, verify international shipping codes, and seize contraband materials. [CBP Certification]",
+            "Immigration Officer": "Audit citizenship application files, conduct visa interviews, and manage immigration tracking paperwork. [DHS / USCIS Certification]",
+            "Intelligence Analyst": "Evaluate data intelligence arrays, map structural threat patterns, and write strategic security briefs. [Federal Intelligence Security Clearance]"
+        },
+        "Forensics & Crime Scene Operations": {
+            "Criminologist": "Analyze behavioral crime statistics to help municipal planning divisions optimize police layouts. [Certified Criminologist / Advanced Degree]",
+            "Forensic Scientist": "Analyze biological trace elements, blood spatter geometry, and chemical residues inside crime labs. [ABC Forensic Certification]",
+            "Ballistics Expert": "Match toolmark striations on fired bullets to specific firearm assets and analyze bullet paths. [AFTE Certification]",
+            "Fingerprint Examiner": "Match chemical latent fingerprint prints against national database registries using imaging code. [IAI Latent Print Certification]",
+            "Digital Forensics Examiner": "Extract encrypted data from locked hard drives, track hidden server logs, and recover deleted media text assets. [GIAC Certified Forensic Analyst (GCFA)]",
+            "Fire Investigator": "Analyze burn char patterns to trace fire acceleration chemicals and discover origin points. [NAFI Certified Fire Investigator]"
+        },
+        "Private Security & Investigations": {
+            "Private Investigator": "Conduct confidential background data research, execute field visual tracking, and compile evidence binders for clients. [State Private Investigator License]",
+            "Bounty Hunter": "Trace bail-skipping fugitives, execute apprehensions, and return defendants to county jail centers. [State Bail Enforcement License]",
+            "Security Director": "Design enterprise physical facility protection layouts, manage access control badges, and lead guard divisions. [ASIS Certified Protection Professional (CPP)]",
+            "Bodyguard": "Provide personal defensive security details, map safe travel paths, and mitigate active physical risks. [Executive Protection Certification]",
+            "Loss Prevention Specialist": "Monitor hidden retail store camera loops, detain active shoplifters, and audit internal inventory shrink lines. [Loss Prevention Certified (LPC)]",
+            "Security Guard": "Secure building entry perimeters, execute regular property night patrols, and log building visitors. [State Security Guard Registration / Guard Card]"
+        },
+        "Institutional Corrections": {
+            "Corrections Officer": "Monitor inmate populations inside secure prison blocks, execute cell searches, and manage inmate transit. [State Corrections Academy Certification]",
+            "Parole Officer": "Monitor post-prison release individuals, verify random drug screening tests, and track employment updates. [State Parole Officer Certification]",
+            "Probation Officer": "Supervise court-ordered alternative sentence programs, manage case files, and file non-compliance reports. [State Probation Officer Certification]"
+        },
+        "Fire & Rescue Services": {
+            "Firefighter": "Extinguish active structural blazes, run heavy hydraulic rescue tools, and stabilize physical vehicle crash hazards. [Pro Board / IFSAC Firefighter I & II Certification]",
+            "Fire Captain": "Lead specialized fire engine crew deployments, direct active incident command actions, and audit station safety. [Fire Officer I & II Certification]",
+            "Fire Chief": "Oversee full municipal department operating budgets, dictate emergency response policies, and manage agency deployments. [Chief Fire Officer (CFO) Designation]",
+            "Fish and Game Warden": "Enforce maritime fishing limits, monitor state forest reserves, and stop wildlife poaching. [State Wildlife Officer Certification / POST]",
+            "Park Ranger": "Enforce backcountry park safety regulations, coordinate remote wilderness search-and-rescue teams, and track trail maintenance. [PRTC / POST Certification]"
+        }
+    },
+    "Logistics & Transportation": {
+        "Supply Chain Strategy & Management": {
+            "Supply Chain Manager": "Direct corporate materials integration structures, evaluate worldwide supplier performance metrics, and optimize manufacturing pipelines. [CSCP / CPSM Certification]",
+            "Logistics Manager": "Oversee high-volume distribution center networks, negotiate freight forwarding costs, and track delivery networks. [CLTD Certification]",
+            "Procurement Manager": "Negotiate complex commercial material purchasing contracts and manage supplier pipelines. [CPSM Certification]",
+            "Purchasing Manager": "Track company inventory purchasing spending loops, approve vendor bids, and evaluate supply tiers. [Certified Purchasing Manager]",
+            "Materials Manager": "Balance real-time raw material factory stock levels against active production schedules. [CPIM Certification]",
+            "Logistics Analyst": "Map routing data frameworks to identify distribution transit bottlenecks and trim fuel costs. [Certified Logistics Analyst]",
+            "Supply Chain Analyst": "Model global supply disruption risks and optimize lead-time predictions. [CSCA Certification]",
+            "Operations Research Analyst": "Program advanced mathematical models to optimize corporate warehouse pick-and-pack steps. [CAP Certification]"
+        },
+        "Warehouse & Distribution Center Operations": {
+            "Warehouse Supervisor": "Coordinate daily picking shifts, audit workplace inventory line locations, and enforce warehouse safety protocols. [OSHA-30 Certification]",
+            "Warehouse Manager": "Direct total fulfillment center infrastructures, manage payroll budgets, and monitor inventory turn rates. [OSHA-30 / CSCP Certification]",
+            "Inventory Controller": "Execute systematic cycles across warehouse bays to reconcile database stock counts. [CPIM Certification]",
+            "Fulfillment Coordinator": "Trace inbound order routing paths and manage automated packaging sort lines. [Certified Logistics Associate]",
+            "Warehouse Worker": "Pick order components from pallet rack shelves, pack boxes, and stack storage assets manually. [OSHA Forklift Safety Certification optional]",
+            "Material Handler": "Stage raw materials on production assembly floors using manual pallet jacks. [OSHA Forklift Safety Certification]",
+            "Order Picker": "Operate mechanized order-picker lifts to retrieve loose inventory parts from high racks. [OSHA Forklift Safety Certification]",
+            "Packer": "Wrap fragile cargo parts securely, check weight labels, and apply shipping bar codes. [Certified Logistics Associate]",
+            "Shipping and Receiving Clerk": "Reconcile inbound freight manifest bills against actual dropped cargo counts. [Certified Logistics Associate]"
+        },
+        "Freight & Cargo Coordination": {
+            "Freight Forwarder": "Arrange international multi-modal shipping connections, organize cargo space bookings, and trace cargo logs. [IATA Freight Forwarder Certification]",
+            "Customs Broker": "Clear inbound international cargo shipments through federal custom block ports using entry codes. [Licensed Customs Broker]",
+            "Distribution Center Manager": "Oversee massive automated high-bay inventory hubs and coordinate cross-docking paths. [CLTD Certification]",
+            "Logistics Coordinator": "Dispatched truck carrier teams, verify cargo seal codes, and trace tracking logs. [Certified Logistics Coordinator]",
+            "Supply Chain Coordinator": "Track manufacturing raw material movement stages across supplier plants. [CSCA Certification]",
+            "Import/Export Specialist": "Prepare international trade document certificates of origin and enforce export rules. [Certified International Trade Professional]",
+            "Transport Coordinator": "Coordinate localized cargo transport asset paths and track fuel spending logs. [Certified Transport professional]"
+        },
+        "Surface Transit & Commercial Fleet Operations": {
+            "Truck Driver": "Drive multi-axle heavy commercial vehicles across state freight routes. [Commercial Driver\\'s License (CDL Class A)]",
+            "Delivery Driver": "Route small package parcel delivery vans across tight residential delivery maps. [Valid Driver\\'s License / DOT Medical Card]",
+            "Forklift Operator": "Drive counterbalanced industrial forklifts to unload freight trailers and stack high pallets. [OSHA Forklift Operator Certification]",
+            "Fleet Manager": "Oversee fleet asset maintenance schedules, monitor telematics logs, and manage commercial truck assets. [CAFM Certification]",
+            "Route Supervisor": "Manage local commercial delivery driver groups and optimize local route configurations. [CDL Class B optional]",
+            "Bus Driver": "Navigate large municipal transit buses along fixed city passenger routes safely. [Commercial Driver\\'s License (CDL Class B with Passenger Endorsement)]",
+            "Transit Operator": "Drive commuter light-rail passenger train cars across urban mass transit loops. [Transit Authority Certification]",
+            "Dispatcher": "Run multi-screen software networks to schedule carrier trucks and route delivery vehicles. [Certified Transit Dispatcher]",
+            "Taxi Driver": "Transport passenger accounts across city areas using localized metered taxi assets. [Chauffeur\\'s License / City Hack License]",
+            "Chauffeur": "Drive premium luxury passenger transport sedans for executive or private clients. [Chauffeur\\'s License]",
+            "Courier": "Deliver time-sensitive legal, medical, or corporate documents directly to office targets. [Valid Driver\\'s License]",
+            "Mail Carrier": "Route localized postal trucks, walk mail grids, and distribute letters to matching boxes. [USPS Postal Checking & Valid Driver\\'s License]",
+            "Postal Clerk": "Process customer retail shipping orders at postal desks and sort regional package bins. [USPS Virtual Assessment Certification]"
+        },
+        "Rail & Aviation Operations": {
+            "Train Conductor": "Manage passenger train safety rules, verify travel tickets, and coordinate rail cargo manifests. [FRA Conductor Certification]",
+            "Locomotive Engineer": "Drive massive multi-engine freight trains across heavy overland rail grids. [FRA Locomotive Engineer Certification]",
+            "Subway Operator": "Drive high-voltage rapid transit subway trains inside underground rail networks. [Transit Authority Operator Certification]",
+            "Air Traffic Controller": "Manage airport radar screens, sequence high-speed aircraft landing paths, and issue clearance codes. [FAA Air Traffic Control Tower Operator Certificate]",
+            "Commercial Pilot": "Fly multi-engine commercial aircraft along designated flight paths to move commercial goods. [FAA Commercial Pilot Certificate]",
+            "Airline Captain": "Oversee full crew actions, execute complex flight plans, and bear absolute command of aircraft. [FAA Airline Transport Pilot (ATP) Certificate]",
+            "First Officer": "Assist airline captains with flight control maneuvers, monitor instrumentation grids, and run flight checklists. [FAA Airline Transport Pilot (ATP) Certificate]",
+            "Flight Engineer": "Monitor complex aircraft engine parameters, check fuel balance matrices, and manage mid-flight repairs. [FAA Flight Engineer Certificate]"
+        },
+        "Maritime & Port Operations": {
+            "Ship Captain": "Direct transoceanic cargo ship operations, navigate shipping routes, and manage shipboard crews. [USCG Master Mariner Credential]",
+            "Marine Pilot": "Board inbound deep-draft cargo ships to steer them safely through localized harbor channels. [State Marine Pilot License]",
+            "Deckhand": "Secure heavy mooring lines to port docks, paint ship surfaces, and maintain structural deck assets. [Merchant Mariner Credential (MMC)]",
+            "Ship Engineer": "Run heavy marine diesel propulsion engines, manage electrical microgrids, and repair onboard pumps. [USCG Chief Engineer License]",
+            "Port Authority Officer": "Enforce cargo security access rules across ship docks and monitor maritime yard perimeters. [STCW Certification / Local Law Enforcement License]",
+            "Harbor Master": "Direct maritime ship traffic inside industrial ship channels, allocate docking spaces, and manage slips. [Certified Harbor Master Designation]"
+        }
+    },
+    "Around the House": {
+        "Minor Tasks & Maintenance": {
+            "Drywall Repair Technician": "Patch holes, fix dents, and repair cracks.",
+            "Gutter Cleaner": "Clear debris and inspect downspouts.",
+            "Pressure Washing Technician": "Wash siding, driveways, decks, and walkways.",
+            "Dryer Vent Cleaning Technician": "Clean ducts to maximize efficiency and prevent fires.",
+            "Handyman": "Handle hanging pictures, mounting TVs, basic adjustments, and small fixes.",
+            "Caulking Specialist": "Seal windows, baseboards, trim, and exterior gaps.",
+            "Grout Restoration Technician": "Clean, repair, and seal tile grout lines.",
+            "Weatherstripping Technician": "Install seals around doors and windows to reduce drafts."
+        },
+        "Interior Painting & Surface Finishes": {
+            "Interior Painter": "Prep and paint interior walls, ceilings, and trim.",
+            "Cabinet Painter": "Sand, prime, and spray kitchen or bathroom cabinets.",
+            "Wallpaper Hanger": "Apply specialized adhesives and hang patterns of decorative vinyl or paper sheets.",
+            "Popcorn Ceiling Removal Specialist": "Scrape texture, skim coat, and smooth ceilings."
+        },
+        "Carpentry & Trim Work": {
+            "Baseboard and Trim Installer": "Cut and pin new baseboards or door casings.",
+            "Crown Molding Installer": "Install decorative ceiling perimeter trim.",
+            "Accent Wall Carpenter": "Build board-and-batten, shiplap, or geometric wood walls.",
+            "Mudroom Bench Carpenter": "Build custom drop-zones, cubbies, and entryway benches.",
+            "Closet Systems Installer": "Assemble and mount wire or wood organizer frameworks."
+        },
+        "Flooring Installation": {
+            "LVP Flooring Installer": "Lay down click-lock luxury vinyl plank flooring.",
+            "Hardwood Floor Refinisher": "Sand down, stain, and clear-coat old hardwood floors.",
+            "Carpet Installer": "Anchor tack strips, roll out underlayment padding, and power-stretch carpets into place.",
+            "Tile Floor Setter": "Prep subfloors, lay thinset, and set floor tile patterns."
+        },
+        "Electrical, Lighting & Smart Home": {
+            "Light Fixture Installer": "Swap out old lights for new chandeliers or vanity bars.",
+            "Ceiling Fan Installer": "Assemble, balance, and wire ceiling fan units.",
+            "Under-Cabinet Lighting Installer": "Run puck or low-profile LED strip lights in kitchens.",
+            "Smart Thermostat Technician": "Wire and configure smart climate controllers.",
+            "Keyless Entry Locksmith": "Program and install smart deadbolts or electronic locks.",
+            "Garage Door Opener Installer": "Mount motorized overhead rail assemblies and safety sensors."
+        },
+        "Plumbing & Fixture Upgrades": {
+            "Garbage Disposal Installer": "Swap out or add kitchen sink disposal units.",
+            "Toilet Replacement Plumber": "Pull old units, reset wax rings, and mount new toilets.",
+            "Faucet Replacement Plumber": "Install new bathroom, kitchen, or laundry utility taps.",
+            "Sump Pump Installer": "Replace or install pit drainage pumps.",
+            "Water Heater Replacement Technician": "Swap out old units for standard tank or tankless water heaters."
+        },
+        "Room Remodels (Under $30k)": {
+            "Bathroom Vanity Installer": "Tear out old cabinets, fit new plumbing lines, and drop in new vanities.",
+            "Shower Door Installer": "Fit custom sliding or hinged glass structural doors.",
+            "Bathroom Exhaust Fan Installer": "Cut ceiling paths, run venting lines, and wire exhaust fan bodies.",
+            "Walk-in Pantry Builder": "Build customized framework shelving units for open storage.",
+            "Laundry Room Renovator": "Mount storage cabinets, drop-in utility sinks, and run hookups.",
+            "Tile Backsplash Installer": "Install kitchen wall tiling behind counters and stoves."
+        },
+        "Exterior, Porch & Decking": {
+            "Deck Board Replacement Carpenter": "Pull up rotted lumber and replace deck surface boards.",
+            "Deck Stain Specialist": "Power wash, sand, and apply structural sealants or stains to decks.",
+            "Porch Railing Installer": "Install vinyl, wood, or aluminum barrier railing systems.",
+            "Screened-In Porch Repairer": "Replace torn mesh or rebuild individual screen panel screens.",
+            "Storm Door Installer": "Hang aluminum or vinyl exterior weather shield doors.",
+            "Mailbox Installer": "Dig post holes, set concrete base anchors, and mount mailbox units.",
+            "Crawl Space Vapor Barrier Installer": "Lay down protective plastic sheeting barriers under foundations."
+        },
+        "Landscaping & Hardscapes": {
+            "Outdoor Lighting Technician": "Run low-voltage landscape lighting lines and spot focus beams.",
+            "Landscaping Curbing Installer": "Pour concrete edging shapes or set stone borders.",
+            "Sod Installer": "Grade lawn dirt surfaces and unroll living green grass mats.",
+            "Fire Pit Builder": "Excavate bases, stack masonry stones, and finish pit circles.",
+            "Patio Paver Installer": "Lay gravel/sand bases, level surfaces, and set custom patio bricks.",
+            "Fence Repairer": "Replace broken pickets, sink leaning posts, or fix gate latches.",
+            "Fencing Installer": "Set layout perimeters, auger holes, and assemble full privacy or picket barriers."
+        }
+    }
+}
