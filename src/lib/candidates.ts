@@ -32,7 +32,7 @@ export const MOCK_CANDIDATES: Candidate[] = [
     bio: "Operations leader who has scaled coastal distribution and hospitality businesses by tightening P&L discipline, cutting cycle times, and building accountable teams. Now pairs 12 years of general management with a proven B2B sales engine, closing multi-year regional accounts.",
     readiness_score: 96,
     is_vetted: true,
-    available_jobs: ["Operations Manager", "General Manager", "Sales Representative", "Business Development Manager", "Account Executive", "Project Manager"],
+    available_jobs: ["Operations Manager", "General Manager", "Sales Representative", "Business Development Manager", "Account Executive", "IT Project Manager"],
     experience_summary: "12 years across operations leadership and B2B sales. Led 40+ person teams, owned $18M P&L, and grew regional B2B revenue 38% YoY.",
     certifications: ["PMP — Project Management Professional", "Lean Six Sigma Green Belt", "Certified Sales Professional (CSP)"],
     avatar_url: marcus,
